@@ -12,7 +12,7 @@ Required packages For Python
 
 tkinter 
 
-pygments ===> To Install ==> pip install Pygments
+pygments ===> To Install => pip install Pygments
 
 chlorophyll ===> To Install ==> pip install chlorophyll
 
