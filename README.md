@@ -8,7 +8,7 @@ Programming Language ===> Python
 
 To run the program ===> python notepad.py
 
-Required packages For Python
+Required Python packages for this program
 
 tkinter 
 
