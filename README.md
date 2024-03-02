@@ -1,8 +1,8 @@
-Program Name ===> Notepad
+Project Name ===> Notepad
 
-This program creates a notepad for you and you can work with it.
+Program Description ===> This program creates a notepad for you and you can work with it.
 
-Create Notepad With Python.
+Program Name ===> Create Notepad With Python.
 
 Programming Language ===> Python
 
